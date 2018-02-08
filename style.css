@@ -1,0 +1,42 @@
+h1 { border: 2px solid black; 
+	background: gray;
+	font-size:300%; 
+	text-align: center;}
+
+
+body {background-color: white;}
+
+#TB{color: red}
+#Q{color:blue}
+#DP{color: gray}
+
+.UL{background: yellow
+	
+	}
+
+.FP{background:#DEB887
+}
+
+.SP{background:#7FFFD4;
+
+}
+
+.SP{font-size: 20px;
+	font-family:arial
+
+}
+
+#TIP{
+	color:purple;
+
+}
+
+.FP{float:left;
+	height:50%;
+	width:42%;
+}
+
+.SP{float: right;
+	height:50%;
+	width:42%;
+}
